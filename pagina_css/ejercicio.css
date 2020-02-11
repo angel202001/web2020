@@ -1,47 +1,48 @@
-
-h1{
-
-color: green;
-margin: 5;
-padding: 5;
-font-family: Arial, Helvetica, sans-serif;
+#titulo{
+    color: darkgreen;
 }
-p span{
-
+p strong{
+ 
+color: red;
+}
+p {
+    ;
+}
+.destacado{
+    color: orange;
+}
+#subtitulo{
+    color: blue;
+}
+p a{
     color: red;
 }
-h2,h4{
+p em{
+    color: blue;
+}
+
+.azul{
     color: blue;
     text-align: left;
 }
 
-
-
-.tabla{
+table {
     border-collapse: collapse;
-    
-}
-
-table, th, td {
+  }
+  
+  table, th, td {
     border: 1px solid black;
   }
-
-p em{
-
+.especial{
     color: orange;
 }
-
-
-.rosado{
-
-    color: magenta;
-    
+#adicional{
+color: olivedrab;
 }
-.verde{
-   color: olive;
+div a{
+    color: lime;
+}
+#especial{
+    color: mediumvioletred;
 }
 
-.hola{
-
-    color: green;
-}
