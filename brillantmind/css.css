@@ -1,17 +1,27 @@
+*{
+
+    margin: 0em;
+    padding: 0em;
+}
+
 body{
 
 
-    background:url(imagen/elegante.jpg);
+    background:url(imagen/fondoclaro.jpg);
 }
 
-.fondo{
 
-    background: url(imagen/sea.jpg);
-}
 
 nav{
 
-    background: url(imagen/cali.jpg);
+    background: url(imagen/black.jpg);
 }
 
+.rocas{
 
+    background: url(imagen/rocas.jpg);
+}
+
+h2{
+    font-family: cursive;
+}
