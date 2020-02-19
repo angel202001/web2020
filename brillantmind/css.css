@@ -4,6 +4,13 @@
     padding: 0;
 }
 
+body>div>a>img{
+
+    display: none;
+}
+
+
+
 header{
     width: 100%;
 }
@@ -44,7 +51,7 @@ nav > ul li a{
 body{
 
 
-    background:url(imagen/elegante.jpg);
+    background:url(imagen/pier4.jpg);
 }
 
 
@@ -62,5 +69,14 @@ nav{
 h2{
     font-family: cursive;
 }
+.laos{
 
+    color: #000000;
+;
 
+}
+
+.left{
+
+    text-align: left;
+}
