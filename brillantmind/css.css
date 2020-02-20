@@ -16,7 +16,7 @@ header{
 }
 
 nav{
-    margin: 20px auto;
+    margin: 0px auto;
     width: 90%;
     max-width: 1000px;
 }
@@ -51,7 +51,7 @@ nav > ul li a{
 body{
 
 
-    background:url(imagen/pier4.jpg);
+    background:url(imagen/hot.jpg);
 }
 
 
@@ -71,7 +71,7 @@ h2{
 }
 .laos{
 
-    color: #000000;
+    color:white;
 ;
 
 }
@@ -79,4 +79,9 @@ h2{
 .left{
 
     text-align: left;
+}
+
+nav ul{
+
+    background: url(imagen/rain.jpg);
 }
