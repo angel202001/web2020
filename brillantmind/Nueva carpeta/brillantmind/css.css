@@ -1,0 +1,93 @@
+*{
+
+    margin: 0;
+    padding: 0;
+}
+
+body>div>a>img{
+
+    display: none;
+}
+
+
+
+header{
+    width: 100%;
+}
+
+nav{
+    margin: 0px auto;
+    width: 90%;
+    max-width: 1000px;
+}
+
+nav ul {
+    list-style: none;
+}
+nav > ul{
+
+      display: table;
+      overflow: hidden;
+      width: 100%;
+      background:#000;
+      position:relative;
+}
+
+nav> ul li{
+
+    display: table-cell;
+}
+nav > ul li a{
+
+    color:#fff;
+    display: block;
+    line-height: 20px;
+    padding: 20px;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+}
+
+body{
+
+
+    background:url(imagen/adventure.jpg);
+}
+
+
+
+nav{
+
+    background: url(imagen/black.jpg);
+}
+
+.rocas{
+
+    background: url(imagen/rocas.jpg);
+}
+
+h2{
+    font-family: cursive;
+}
+.laos{
+
+    color:white;
+
+
+}
+
+.left{
+
+    text-align: left;
+}
+
+nav ul{
+
+    background: url(imagen/rain.jpg);
+}
+
+.lado{
+
+    color: steelblue;
+}
+
